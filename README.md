@@ -1,4 +1,4 @@
-(Use this stupid program at your own risk, It runs an infinite loop and eats up your system resources(possible thermal throttling)
+Use this stupid program at your own risk. It runs an infinite loop and eats up your system resources(possible thermal throttling)
 # i3wm-battery-low-warning
 ## Works only for back-lit keyboards
 
